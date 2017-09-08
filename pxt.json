@@ -1,6 +1,6 @@
 {
     "name": "ds1307",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "A PXT library for DS1307 RTC",
     "license": "MIT",
     "dependencies": {
@@ -18,5 +18,9 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/robotfreak/pxt-ds1307.git"
+    },
+    "public": true
 }
