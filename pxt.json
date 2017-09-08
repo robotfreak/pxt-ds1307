@@ -4,7 +4,7 @@
     "description": "A PXT library for DS1307 RTC",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",
