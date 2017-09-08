@@ -1,0 +1,22 @@
+{
+    "name": "ds1307",
+    "version": "0.0.0",
+    "description": "A PXT library for DS1307 RTC",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+        "shims.d.ts",
+        "enums.d.ts",
+        "ds1307_package.cpp",
+        "DS1307.h",
+        "DS1307.cpp"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}

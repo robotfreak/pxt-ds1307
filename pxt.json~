@@ -1,0 +1,18 @@
+{
+    "name": "ds1307",
+    "version": "0.0.0",
+    "description": "A PXT library for DS1307 RTC",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
